@@ -1,0 +1,8 @@
+# Git Ignore
+*.zip
+.vercel
+node_modules
+.vscode
+.gemini
+Food_Ordering_System_Using_PHP_and_MYSQL.zip
+razorpay-php.zip

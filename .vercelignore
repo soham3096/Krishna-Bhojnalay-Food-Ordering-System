@@ -1,0 +1,12 @@
+# Vercel Ignore List
+*.zip
+.git
+.gitignore
+.vscode
+.gemini
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+Food_Ordering_System_Using_PHP_and_MYSQL.zip
+razorpay-php.zip
